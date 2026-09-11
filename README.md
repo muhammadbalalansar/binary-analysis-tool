@@ -6,7 +6,8 @@
 ██║  ██║██╔╝ ██╗╚██████╔╝██║ ╚═╝ ██║╚██████╔╝██║  ██║   ██║   ███████╗██║ ╚═╝ ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
 ```
-**By Muhammad Balal Ansar (Cyber Security Expert) 
+**By Muhammad Balal Ansar (Cyber Security Expert)**
+
 [![Cybersecurity Projects](https://img.shields.io/badge/Cybersecurity--Projects-Project%20%2320-red?style=flat&logo=github)](https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS/intermediate/binary-analysis-tool)
 [![Rust](https://img.shields.io/badge/Rust-stable-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
