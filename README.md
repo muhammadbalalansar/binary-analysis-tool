@@ -30,6 +30,7 @@
 - Shannon entropy analysis for detecting packed or encrypted sections
 - 8-category threat scoring system (max 100 points) with MITRE ATT&CK technique mapping
 - Pass-based analysis pipeline with topological ordering and dependency resolution
+- 
 
 ## Quick Start
 
