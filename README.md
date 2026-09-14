@@ -23,6 +23,7 @@
 
 ## What It Does
 
+
 - Multi-format binary parsing (ELF, PE, Mach-O) with section analysis and import table extraction
 - YARA rule scanning with 14 built-in detection rules for malware, packers, and crypto patterns
 - x86/x86_64 disassembly with control flow graph generation from entry points and symbol tables
