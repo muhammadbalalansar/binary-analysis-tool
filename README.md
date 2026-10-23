@@ -51,7 +51,7 @@ Visit `http://localhost:22784`
 
 **Infra:** Docker Compose, Nginx, PostgreSQL 18
 
-## Learn
+## Learn:
 
 This project includes step-by-step learning materials covering security theory, architecture, and implementation.
 
