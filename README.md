@@ -43,7 +43,7 @@ Visit `http://localhost:22784`
 >
 > Install: `curl -sSf https://just.systems/install.sh | bash -s -- --to ~/.local/bin`
 
-## Stack
+## Stack:
 
 **Backend:** Rust, Axum, goblin, iced-x86, yara-x, SQLx, PostgreSQL
 
