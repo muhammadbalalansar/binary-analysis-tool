@@ -14,7 +14,6 @@
 [![License: AGPLv3](https://img.shields.io/badge/License-AGPL_v3-purple.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat&logo=docker)](https://www.docker.com)
 
-
 > Static binary analysis engine with multi-format parsing, YARA scanning, x86 disassembly, and MITRE ATT&CK threat scoring.
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
