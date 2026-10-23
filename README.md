@@ -18,7 +18,6 @@
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
-
 ## What It Does
 
 
