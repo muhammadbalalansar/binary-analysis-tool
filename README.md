@@ -28,7 +28,7 @@
 - Pass-based analysis pipeline with topological ordering and dependency resolution
 - 
 
-## Quick Start
+## Quick Start:
 
 ```bash
 docker compose up -d
