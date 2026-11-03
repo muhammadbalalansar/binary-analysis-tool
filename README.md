@@ -45,7 +45,7 @@ Visit `http://localhost:22784`
 
 **Backend:** Rust, Axum, goblin, iced-x86, yara-x, SQLx, PostgreSQL
 
-**Frontend:** React 19, TypeScript, Vite, TanStack Query, Zustand, Zod, SCSS Modules
+**Frontend:** React 19, TypeScript, Vite, TanStack Query, Zustand, Zod, SCSS Modules. 
 
 **Infra:** Docker Compose, Nginx, PostgreSQL 18
 
